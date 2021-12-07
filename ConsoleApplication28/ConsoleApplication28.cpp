@@ -324,4 +324,6 @@ int main(int argc, char** argv) {
     // главный цикл
     glutMainLoop();
     return 1;
+
+// comment
 }
