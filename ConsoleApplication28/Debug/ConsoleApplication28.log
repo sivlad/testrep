@@ -1,0 +1,7 @@
+﻿  ConsoleApplication28.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: APIENTRY: изменение макроопределения
+D:\Учеба\openGL\glfw-3.3.5.bin.WIN64\include\GLFW\glfw3.h(123): message : см. предыдущее определение "APIENTRY"
+C:\Users\User\source\repos\ConsoleApplication28\ConsoleApplication28\ConsoleApplication28.cpp(196,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication28\ConsoleApplication28\ConsoleApplication28.cpp(259,40): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication28\ConsoleApplication28\ConsoleApplication28.cpp(259,28): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+  ConsoleApplication28.vcxproj -> C:\Users\User\source\repos\ConsoleApplication28\Debug\ConsoleApplication28.exe
